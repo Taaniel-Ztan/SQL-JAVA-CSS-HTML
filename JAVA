@@ -1,0 +1,22 @@
+// array []
+// object {}
+// et = elektritarbmine
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+let töötaja = {
+    nimi "Taaniel",
+    palk : 10
+}
+let et = [
+    10,12,15,12,13,15,11
+    console.log(et)
+    console.log(et[2])
+];
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+let tahaTeada = prompt("Mis kuu?");
+let et = [ 10,12,15,12,13,15,11];
+console.log(et[tahaTeada]);
++++++++++++++++++++++++++++++++++++++++++++++++++
