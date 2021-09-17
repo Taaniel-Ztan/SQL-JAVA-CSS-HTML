@@ -20,3 +20,14 @@ let tahaTeada = prompt("Mis kuu?");
 let et = [ 10,12,15,12,13,15,11];
 console.log(et[tahaTeada]);
 +++++++++++++++++++++++++++++++++++++++++++++++++
+// for
+// while
+for (let x=1; x <= 100; x++){
+    console.log(x)
+}
+let tööta=true
+while(tööta) {
+    console.log(x);
+    if (new Date().getMinutes > 23)
+   tööta = false;
+}
